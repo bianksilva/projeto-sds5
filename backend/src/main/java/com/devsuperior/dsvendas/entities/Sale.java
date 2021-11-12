@@ -46,12 +46,12 @@ public class Sale {
 		this.id = id;
 	}
 
-	public Integer getVidited() {
+	public Integer getVisited() {
 		return visited;
 	}
 
-	public void setVidited(Integer vidited) {
-		this.visited = vidited;
+	public void setVisited(Integer visited) {
+		this.visited = visited;
 	}
 
 	public Integer getDeals() {
