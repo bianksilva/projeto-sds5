@@ -1,6 +1,7 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - SDS 5.0
 > 
->  *App completo com as tecnologias mais demandadas do mercado*
+>  *App completo com as tecnologias mais demandadas do mercado:*
+>  #### https://dsvendas-bia.netlify.app
 
 ## Realizado Por
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
